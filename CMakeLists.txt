@@ -3,4 +3,4 @@ project(Cpp_Templates)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Cpp_Templates main.cpp)
+add_executable(func_template_test_01 function_templates/func_template_test_01.cpp)
